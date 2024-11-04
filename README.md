@@ -8,7 +8,8 @@ The function sorts packages based on the following criteria and returns a string
 - Else it is a standard package
 
 String returns as follows:
-**STANDARD**: not bulky or heavy
+
+- **STANDARD**: not bulky or heavy
 - **SPECIAL**: either heavy or bulky
 - **REJECTED**: both heavy
 - **ERROR**: incorrect input
